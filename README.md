@@ -1,1 +1,1 @@
-CHATGPT
+AI大模型
